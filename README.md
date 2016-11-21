@@ -1,0 +1,2 @@
+# Surge-conf
+remote
