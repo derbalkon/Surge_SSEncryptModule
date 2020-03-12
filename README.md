@@ -1,4 +1,4 @@
-# Surge Configuration Backup
+# Surge SSEncrypt Module Backup
 
-Module included.
+Example configuration file (outdated) included.
 
